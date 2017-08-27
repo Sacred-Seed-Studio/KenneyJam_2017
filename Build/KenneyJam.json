@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "KenneyJam.data.unityweb",
+"asmCodeUrl": "KenneyJam.asm.code.unityweb",
+"asmMemoryUrl": "KenneyJam.asm.memory.unityweb",
+"asmFrameworkUrl": "KenneyJam.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
